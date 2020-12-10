@@ -73,9 +73,7 @@
 		4D4FD7F0257F4AA80084F841 /* DairyApp */ = {
 			isa = PBXGroup;
 			children = (
-				4D4FD846257F4B2B0084F841 /* Resources */,
 				4D4FD844257F4B2B0084F841 /* Sources */,
-				4D4FD845257F4B2B0084F841 /* Support */,
 				4D4FD7F1257F4AA80084F841 /* AppDelegate.swift */,
 				4D4FD868257F80850084F841 /* Dairy_ContentVC.swift */,
 				4D4FD7F5257F4AA80084F841 /* Dairy_HomeVC.swift */,
@@ -95,20 +93,6 @@
 				4D4FD84B257F4ECD0084F841 /* Views */,
 			);
 			path = Sources;
-			sourceTree = "<group>";
-		};
-		4D4FD845257F4B2B0084F841 /* Support */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Support;
-			sourceTree = "<group>";
-		};
-		4D4FD846257F4B2B0084F841 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		4D4FD84B257F4ECD0084F841 /* Views */ = {
